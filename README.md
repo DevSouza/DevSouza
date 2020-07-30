@@ -12,4 +12,4 @@ Meu nome é Andre Souza, estou cursando analise e Desenvolvimento de Sistemas e 
 
 - :office_worker: Programador Junior na **Franquias Odontovida**
 - :blue_heart: Techs: Java, Angular, Javascript, Flutter, entre outras.
-- :books: Estudando Flutter, Spring Boot e React.js :heart:
+- :books: Estudando Microservices, Spring Boot e React.js :heart:
