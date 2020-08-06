@@ -13,3 +13,5 @@ Meu nome é Andre Souza, estou cursando analise e Desenvolvimento de Sistemas e 
 - :office_worker: Programador Junior na **Franquias Odontovida**
 - :blue_heart: Techs: Java, Angular, Javascript, Flutter, entre outras.
 - :books: Estudando Microservices, Spring Boot e React.js :heart:
+   
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSouza&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
