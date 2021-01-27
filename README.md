@@ -7,7 +7,7 @@ I am Andre, a Brazilian software developer.
 
 My experience includes:
 
-- :bullettrain_front:  Building REST APIs with Java and Spring boot;
+- :bullettrain_front:  Building REST APIs with Java and NodeJs;
 - :shipit:  Improving development experience;
 - :black_nib:  Technical writing.
    
