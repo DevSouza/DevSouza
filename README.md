@@ -10,8 +10,6 @@ My experience includes:
 - :bullettrain_front:  Building REST APIs with Java and NodeJs;
 - :shipit:  Improving development experience;
 - :black_nib:  Technical writing.
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/devsouza/devsouza/output/github-contribution-grid-snake.svg)
    
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DevSouza)](https://github.com/DevSouza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devsouza/)](https://www.linkedin.com/in/devsouza/)
