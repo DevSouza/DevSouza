@@ -2,7 +2,7 @@
 
 I am Andre, a Brazilian software developer.
 
-- :office_worker: Developer Javar at **Franquias Odontovida** and **Ortolook**
+- :office_worker: Developer Javar
 - :blue_heart: Techs: Java, Spring boot, Spring cloud and Microservices.
 
 My experience includes:
