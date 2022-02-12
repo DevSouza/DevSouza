@@ -1,7 +1,7 @@
-## Hello 👋
+# <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> Hi there, I'm Andre
 
-- 🏢 Programador Java junior
-- 🖤 **Backend:** Java, Spring boot, Spring cloud e Microservices
+- 🏢 Software developer
+- 🖤 **Backend:** Java, Spring boot e Microservices
 - 💜 **Frontend:** ReactJs e NextJs
    
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devsouza/)](https://www.linkedin.com/in/devsouza/)
