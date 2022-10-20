@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> Hi there, I'm Andre
 
 - 🏢 Software developer
-- 🖤 **Backend:** Java, Spring boot and Microservices
+- 🖤 **Backend:** Java
 - 💜 **Frontend:** ReactJs and NextJs
 
 ![](./giphy.gif)
