@@ -2,7 +2,7 @@
 
 - 🏢 Software developer
 - 🖤 **Backend:** Java
-- 💜 **Frontend:** ReactJs and NextJs
+- 💜 **Frontend:** ReactJs
 
 ![](./giphy.gif)
    
