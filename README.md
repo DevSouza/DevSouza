@@ -1,4 +1,4 @@
-- 🏢 Programador Junior
+- 🏢 Programador
 - 🖤 **Backend:** Java
 - 💜 **Frontend:** ReactJs
    
