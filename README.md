@@ -5,4 +5,4 @@
 - 🖤 **Backend:** Java
 - 💜 **Frontend:** ReactJs
 
-![DevSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=devsouza&show_icons=true)
+![DevSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=devsouza&show_icons=true&theme=radical)
